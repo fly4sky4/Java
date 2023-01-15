@@ -10,6 +10,7 @@ import java.util.Scanner;
  * from 2-36. Works by going from base 1 to decimal to base 2. Includes
  * auxiliary method for determining whether a number is valid for a given base.
  *
+ * simple and easy
  * @author Michael Rolland
  * @version 2017.10.10
  */

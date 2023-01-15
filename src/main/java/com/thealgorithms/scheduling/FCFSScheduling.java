@@ -6,6 +6,7 @@ import java.util.List;
 
 /**
  * Non-pre-emptive First Come First Serve scheduling. This can be understood here - https://www.scaler.com/topics/first-come-first-serve/
+ * wow so nice
  */
 public class FCFSScheduling {
 

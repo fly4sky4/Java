@@ -5,6 +5,8 @@ public class HexaDecimalToBinary {
 
     private final int LONG_BITS = 8;
 
+    private String msg = "hello";
+
     public String convert(String numHex) {
         // String a HexaDecimal:
         int conHex = Integer.parseInt(numHex, 16);
